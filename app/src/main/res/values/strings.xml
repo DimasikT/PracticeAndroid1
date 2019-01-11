@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="running">running</string>
+    <string name="my_text">My</string>
+    <string name="first_text">First</string>
+    <string name="android_text">Android</string>
+    <string name="hint_name">Your name</string>
+    <string name="music_description">Music</string>
+    <string name="sale">sale 30%</string>
+    <string name="select_item">Select Item</string>
+    <string name="order_price">Order price</string>
+    <string name="quantity_title">Quantity</string>
+    <string name="zero_price">0 $</string>
+    <string name="plus_button">+</string>
+    <string name="quantity_price">0</string>
+    <string name="minus_button">-</string>
+    <string name="add_to_cart">add to cart</string>
+    <string name="guitar_pic">guitar_pic</string>
+    <string name="your_order">Your order</string>
+    <string name="submit_order">submit order</string>
+</resources>
